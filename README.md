@@ -1,4 +1,4 @@
-<h1 align="center"> NLW - COPA </h1>
+<h1 align="center"> Cadastro </h1>
 <br>
 
 <p align="center">
