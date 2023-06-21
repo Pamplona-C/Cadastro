@@ -2,6 +2,10 @@
     --color-gradient: linear-gradient(90deg, #3a49ed,#5583f7,#46afbf);
     --color-light-50: #f8fafc; 
   }
+
+  *:focus{
+    outline:none;
+  }
   
   *{
     margin:0;
@@ -36,6 +40,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+
+  input{
+    padding: 10px;
   }
   
   #inputs{
